@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'E-commerce project using Java'
+project = 'GIT'
 copyright = '2020, Bhavana'
 author = 'Bhavana'
 
